@@ -1,3 +1,4 @@
 Hello my friend
 Hello, here we are again
 Hello again
+Second line in master
